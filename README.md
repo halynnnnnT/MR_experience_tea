@@ -26,4 +26,4 @@
 </div>
 
 ## 流程圖
-![pic](https://github.com/halynnnnnT/MR_experience_tea/blob/main/method-structure.png)
+<img src="https://github.com/halynnnnnT/MR_experience_tea/blob/main/method-structure.png" width="300">
